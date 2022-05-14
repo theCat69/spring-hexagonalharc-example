@@ -1,0 +1,9 @@
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\model\Person.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\mapper\PersonMapper.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\model\JsonMate.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\port\PersonPortImpl.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\converter\JsonMateConverter.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\converter\JsonConverterObjectMapper.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\mapper\JsonMateMapper.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\repository\PersonRepository.java
+C:\dev\project\springBootFunApp\dao\src\main\java\com\fef\wha\dao\converter\JsonConverter.java

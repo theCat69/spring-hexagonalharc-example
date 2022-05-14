@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Felix",
+  "age": 33,
+  "mate" : {
+    "name" : "poto",
+    "code": "code",
+    "date": "2021-10-12 00:00:00"
+  }
+}

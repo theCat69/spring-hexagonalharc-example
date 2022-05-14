@@ -1,0 +1,13 @@
+com\fef\wha\dao\converter\JsonConverter.class
+com\fef\wha\dao\mapper\JsonMateMapper.class
+com\fef\wha\dao\converter\JsonMateConverter.class
+com\fef\wha\dao\mapper\JsonMateMapperImpl.class
+com\fef\wha\dao\repository\PersonRepository.class
+com\fef\wha\dao\mapper\PersonMapperImpl.class
+com\fef\wha\dao\mapper\PersonMapper.class
+com\fef\wha\dao\model\JsonMate$JsonMateBuilder.class
+com\fef\wha\dao\port\PersonPortImpl.class
+com\fef\wha\dao\converter\JsonConverterObjectMapper.class
+com\fef\wha\dao\model\JsonMate.class
+com\fef\wha\dao\model\Person$PersonBuilder.class
+com\fef\wha\dao\model\Person.class

@@ -1,0 +1,9 @@
+com\fef\wha\rest\controller\PersonController.class
+com\fef\wha\rest\dto\PersonDto$PersonDtoBuilder.class
+com\fef\wha\rest\dto\JsonMateDto.class
+com\fef\wha\rest\mapper\PersonDtoMapperImpl.class
+com\fef\wha\rest\dto\JsonMateDto$JsonMateDtoBuilder.class
+com\fef\wha\rest\mapper\PersonDtoMapper.class
+com\fef\wha\rest\mapper\JsonMateDtoMapper.class
+com\fef\wha\rest\mapper\JsonMateDtoMapperImpl.class
+com\fef\wha\rest\dto\PersonDto.class

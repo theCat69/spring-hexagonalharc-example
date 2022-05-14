@@ -1,0 +1,7 @@
+com\fef\wha\domain\model\PersonDomain$PersonDomainBuilder.class
+com\fef\wha\domain\model\PersonDomain.class
+com\fef\wha\domain\service\PersonServiceImpl.class
+com\fef\wha\domain\model\JsonMateDomain$JsonMateDomainBuilder.class
+com\fef\wha\domain\service\PersonService.class
+com\fef\wha\domain\port\PersonPort.class
+com\fef\wha\domain\model\JsonMateDomain.class
